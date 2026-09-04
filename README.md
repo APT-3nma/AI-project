@@ -1,4 +1,4 @@
-**Apollo☀️**
+# Apollo☀️
 
 
 Apollo is an artificial intelligence inside discord with functions from a normal chat bot to a Bot that you can speak with.
